@@ -1,0 +1,5 @@
+User Id : Admin ;
+Password : Admin ;
+
+Database Name : Ceypetco ;
+
